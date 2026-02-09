@@ -22,6 +22,6 @@ public class primeNumber {
         System.out.print("Enter the number :");
         int n=sc.nextInt();
         System.out.println(checkPrime(n));
-        
+        sc.close();
     }
 }

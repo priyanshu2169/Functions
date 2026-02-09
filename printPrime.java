@@ -32,6 +32,6 @@ public class printPrime {
         System.out.print("enter the number");
         int n=sc.nextInt();
         printP(n);
-
+        sc.close();
     }
 }
